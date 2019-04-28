@@ -1,0 +1,20 @@
+#title{
+  margin:auto;
+  text-align: center;
+}
+#img-caption {
+  margin:auto;
+  text-align: center;
+}
+#image{
+  margin: auto;
+  text-align: center;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+#tribute-info{
+  padding-top:30px;
+  width:400px;
+  margin:auto;
+}
